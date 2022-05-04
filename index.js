@@ -41,6 +41,7 @@ const LANGUAGES = {
   'la': 'Latin',
   'lv': 'Latvian',
   'mk': 'Macedonian',
+  'ml': 'Malayalam',
   'no': 'Norwegian',
   'pl': 'Polish',
   'pt': 'Portuguese',
